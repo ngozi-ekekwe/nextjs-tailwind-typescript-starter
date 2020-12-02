@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  @apply bg-white;
+  background-color: red;
+  -webkit-font-smoothing: antialiased;
+}
